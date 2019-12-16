@@ -54,6 +54,4 @@ MusicDB is a web application that allows the user to navigate through an ontolog
 
 &nbsp;
 
-&nbsp;
-
 *University Project - Processamento e Representação de Conhecimento, Universidade do Minho (2018-2019)*
