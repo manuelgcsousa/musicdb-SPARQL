@@ -8,11 +8,11 @@ MusicDB is a web application that allows the user to navigate through an ontolog
    
    1. Create a repository named "music-db"
    
-   2. Import ["ontology/music-db-short.ttl"](https://github.com/MGCSousa/MusicSPARQL-PRC2019/blob/master/ontology/music-db-short.ttl) to that same repository
+   2. Import ["ontology/music-db-short.ttl"](https://github.com/MGCSousa/musicdb-SPARQL/tree/master/ontology/music-db-short.ttl) to that same repository
 
 2. Start Backend Server (Node.js)
    
-   1. Navigate to ["music-backend"](https://github.com/MGCSousa/MusicSPARQL-PRC2019/tree/master/music-backend)
+   1. Navigate to ["music-backend"](https://github.com/MGCSousa/musicdb-SPARQL/tree/master/music-backend)
       
       ```bash
       cd music-backend
@@ -32,7 +32,7 @@ MusicDB is a web application that allows the user to navigate through an ontolog
 
 3. Start Frontend Server (Vue.js)
    
-   1. Navigate to ["music-frontend"](https://github.com/MGCSousa/MusicSPARQL-PRC2019/tree/master/music-frontend)
+   1. Navigate to ["music-frontend"](https://github.com/MGCSousa/musicdb-SPARQL/tree/master/music-frontend)
       
       ```bash
       cd music-frontend
